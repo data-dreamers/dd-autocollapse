@@ -1,0 +1,15 @@
+{
+  "name": "dd-autocollapse",
+  "version": "0.0.0",
+  "authors": [
+    "Marshall Klickman <mklickman1@gmail.com>"
+  ],
+  "description": "Element query that detects when a containing element becomes narrower than its children",
+  "main": "dd-autocollapse.js",
+  "keywords": [
+    "angular",
+    "element-query"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/data-dreamers/dd-autocollapse"
+}
